@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content": "Don't forget to set the Content-Type right...",
+    "important": true
+}
